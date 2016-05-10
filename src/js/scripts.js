@@ -2,7 +2,9 @@
 	"use strict";
 
 	$(function () {
-		// DOM ready, take it away
+		$(".carousel").carousel({
+            interval: 5000 //changes the speed
+        });
 	});
 
 } ( this, jQuery ));

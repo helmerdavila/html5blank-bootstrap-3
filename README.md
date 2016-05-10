@@ -1,4 +1,5 @@
-# [HTML5 Blank](http://html5blank.com)
+# [HTML5 Blank](http://html5blank.com) + Bootstrap 3
+## Personal MOD with Bootstrap 3 Framework
 
 Powerful shell for rapidly deploying your WordPress projects.
 

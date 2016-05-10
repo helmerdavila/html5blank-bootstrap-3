@@ -13,6 +13,8 @@ var gulp = require( "gulp" ),
 		"src/js/lib/conditionizr-4.3.0.min.js",
 		/** jQuery */
 		"src/bower_components/jquery/dist/jquery.js",
+		/** Bootstrap Script */
+		"src/bower_components/bootstrap-sass/assets/javascripts/bootstrap.js",
 		/** Page scripts */
 		"src/js/scripts.js"
 	],
@@ -27,8 +29,6 @@ var gulp = require( "gulp" ),
 		production: [
 			/** The banner of `style.css` */
 			"src/css/banner.css",
-			/** Normalize */
-			"src/bower_components/normalize.css/normalize.css",
 			/** Theme style */
 			"src/css/style.css"
 		]

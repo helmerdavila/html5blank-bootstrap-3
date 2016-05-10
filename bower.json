@@ -4,7 +4,9 @@
   "author": "Todd Motto",
   "devDependencies": {
     "jquery": "~1.11.1",
-    "modernizr": "~2.8.3",
-    "normalize.css": "~3.0.1"
+    "modernizr": "~2.8.3"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
   }
 }
